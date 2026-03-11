@@ -1,4 +1,4 @@
-# Task1-FUTURE_CS_01-
+# Task1-FUTURE_CS_01
 # Task 1:Vulnerability Assessment Report for a Live Website
 **Task ID:** FUTURE_CS_01
 **Target:** http://zero.webappsecurity.com
